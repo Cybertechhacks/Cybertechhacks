@@ -1,6 +1,6 @@
 ﻿# 👨‍💻 Hi, I'm Vinod Kumar Bontha
 
-**Security Analyst | Security Researcher | Bug Bounty Hunter**
+**Security Analyst | Penetration Tester | Security Researcher | Bug Bounty Hunter**
 
 I am an offensive security researcher specializing in internal/external networks, web applications, and infrastructure configurations. 
 
