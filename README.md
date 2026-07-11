@@ -6,13 +6,13 @@
 ██  ██████  ██          ██    ████  ██  ██████  ██      
 ██  ██████  ██  ██████    ████████  ██  ██████  ██      vinod@cybertechhacks
 ██  ██████  ██    ██  ██  ██    ██  ██  ██████  ██      --------------------
-██          ██  ████    ██████████  ██          ██      Role: ........... Security Analyst, Pentester
-██████████████  ██  ██  ██  ██  ██  ██████████████      Specialty: ...... VAPT, Web Apps, Cloud Security
+██          ██  ████    ██████████  ██          ██      Role: ........... Security Analyst, Pentester, Bug Bounty Hunter, Researcher
+██████████████  ██  ██  ██  ██  ██  ██████████████      Specialty: ...... Infra and Web Apps VAPT
                   ████  ██      ██                      Certifications: . CEH (Master), CRTA, CNSP
 ██████████  ████████      ████    ██  ██  ██  ██        
 ████████████    ██  ████        ██    ██      ██        - Bug Bounty & Recognitions --------------------------
-  ██  ████  ██  ██  ██      ██████████  ████  ████      ClearTax: ....... Hall of Fame & Bounty Awardee (P1 Critical)
-██████  ████    ██      ██  ██  ██████  ██      ██      Max Healthcare: . CISO Certificate of Appreciation (P1 Critical)
+  ██  ████  ██  ██  ██      ██████████  ████  ████      ClearTax: ....... Hall of Fame & Bounty Awardee (P2 Critical)
+██████  ████    ██      ██  ██  ██████  ██      ██      Max Healthcare: . Certificate of Appreciation (P1 Critical)
 ████  ██    ██  ██████  ██████    ████████  ██████      
 ██  ██        ██  ██  ██    ██  ████  ██  ██  ██        - Skills & Tools -------------------------------------
 ██    ████  ██████      ██  ████    ████████  ████      Core: ........... OWASP Top 10, MITRE ATT&CK, NIST, PCI-DSS
